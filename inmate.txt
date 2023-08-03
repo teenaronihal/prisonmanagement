@@ -1,0 +1,2 @@
+2|1|sangeetha|20|indian|murder|good|08/07/2023$*04|01|john|29|indian|robbery|bad|28/09/2023$*04|01|pinku|35|indian|robbery|good|24/06/2023$
+45|67|avcd|34|indian|theft|good|24/04/2023$
